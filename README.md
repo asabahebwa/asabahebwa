@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Livingstone, a seasoned Front-end Developer with a solid 5-year track record of delivering top-notch digital experiences. Usually, I collaborate with innovative companies to transform their vision into engaging and user-friendly products. Don't hesitate to reach out for a consultation - let's create something amazing together! 🍻
+I'm Livingstone, a seasoned Full-Stack Developer with a 5-year track record of delivering top-notch digital experiences. Usually, I collaborate with innovative companies to transform their vision into engaging and user-friendly products. Don't hesitate to reach out for a consultation - let's create something amazing together! 🍻
 
 🔥 What sets me apart?
 - Expertise in Responsive Web Application Development
