@@ -10,7 +10,7 @@ I'm Livingstone, a seasoned Full-Stack Developer with a 5-year track record of d
 - Mapbox
 - D3.js
 - Google Maps
-- Tableau
+- Metabase
 - Deck.gl
 
 💻 Front-end Technologies I excel in:
