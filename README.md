@@ -17,7 +17,7 @@ I'm Livingstone, a seasoned Full-Stack Developer with a 5-year track record of d
 - ReactJS
 - TypeScript
 - Tailwind CSS
-- SASS
+- SCSS/SASS
 - HTML
 - CSS
 - JavaScript
