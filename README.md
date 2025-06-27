@@ -22,7 +22,16 @@ I'm Livingstone, a seasoned Full-Stack Developer with a 5-year track record of d
 - CSS
 - JavaScript
 
+💻 Back-end Technologies I work with:
+- Node.js
+- Express
+- NestJs
+- Python(Flask/Django)
+- PostgreSQL/MySQL/Supabase
+
 With my unique blend of data-viz and development expertise, I'm confident in my ability to create stunning, user-centric digital solutions that will elevate your brand and make you stand out from the competition. Let's connect and bring your ideas to life!
+
+🚀 Highlight Projects
 
 <!--
 **asabahebwa/asabahebwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
