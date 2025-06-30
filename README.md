@@ -7,20 +7,30 @@ With over 5 years of hands-on experience, I specialize in building robust, respo
 
 🧠 My Tech Toolkit
 
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Deck.gl](https://img.shields.io/badge/Deck.gl-8DD3C7?style=for-the-badge&logo=uber&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+🚀 Highlight Projects
+
+- [Hotline](https://github.com/asabahebwa/thehotline): Sometimes, even if you think your relationship is healthy, it can hide signs of abuse from one of the partners. This app will help you identify signs of abuse and offer resources on what you can do next.
+- [PixelMap Studio](https://github.com/asabahebwa/pixelmapstudio): The data visualization portfolio is designed to showcase data storytelling skills through clear, engaging, and insightful visualizations.
+- [weathersasa](https://github.com/asabahebwa/pixelmapstudio): This application provides accurate and real-time weather information for users based on their location or selected cities. It offers an intuitive and user-friendly interface that ensures accessibility and ease of use for a wide audience.
+- [swipe2pay dashboards](https://github.com/asabahebwa/swipe2pay): swipe2pay takes the friction out of payments, so you can focus on what you do best, " Making sales". It allows SMEs to accept mobile payments and grow their businesses.
+- [Planogy](https://github.com/asabahebwa/planogy): A tool that helps you keep track of your design work. We allow designers to share design assets with their team, who can leave comments and explain additional details with simple shapes.
 
 ---
 
