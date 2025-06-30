@@ -1,5 +1,55 @@
-## Hi there 👋
-With over 5 years of hands-on experience, I specialize in building robust, responsive, and scalable web applications. I’ve worn multiple hats, i.e., founding engineer, mentor, problem solver, and open source contributor — and I’m passionate about delivering real value through code.
+## Hi there 👋 I'm Livingstone Asabahebwa — a Full-Stack Software Engineer 🚀
+With over 5 years of hands-on experience, I specialize in building robust, responsive, and scalable web applications. I’ve worn multiple hats, including founding engineer, mentor, problem solver, and open-source contributor — and I’m passionate about delivering real value through code.
+
+💼 Currently, I’m working at MedX International, a startup that builds reliable digital infrastructure for diagnostics, from lab automation to national surveillance
+
+---
+
+🧠 My Tech Toolkit
+
+
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Deck.gl](https://img.shields.io/badge/Deck.gl-8DD3C7?style=for-the-badge&logo=uber&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+🌍 Let's Connect & Collaborate
+
+I'm passionate about open source, mentoring, and learning from others. Whether you're building an MVP, hacking on something cool, or just want to talk tech, I'd love to connect!
+
+📌 Things I’m excited about:
+- Exploring machine learning & improving my data visualization skills
+- Scaling startups from zero to MVP
+- Building useful tools for developers and businesses
+- Hearing your story and collaborating on impactful projects
+
+
+
+
+<!--
+**asabahebwa/asabahebwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 🔥 What sets me apart?
 - Expertise in Responsive Web Application Development
@@ -21,24 +71,6 @@ With over 5 years of hands-on experience, I specialize in building robust, respo
 - HTML
 - CSS
 - JavaScript
-
-
-
-<!--
-**asabahebwa/asabahebwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 
 💻 Back-end Technologies I work with:
 - Node.js
