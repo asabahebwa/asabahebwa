@@ -26,7 +26,7 @@ With over 5 years of hands-on experience, I specialize in building robust, respo
 
 🚀 Highlight Projects
 
-- [Hotline](https://github.com/asabahebwa/thehotline): Sometimes, even if you think your relationship is healthy, it can hide signs of abuse from one of the partners. This app will help you identify signs of abuse and offer resources on what you can do next.
+- [Hotline](https://github.com/asabahebwa/hotline): Sometimes, even if you think your relationship is healthy, it can hide signs of abuse from one of the partners. This app will help you identify signs of abuse and offer resources on what you can do next.
 - [PixelMap Studio](https://github.com/asabahebwa/pixelmapstudio): The data visualization portfolio is designed to showcase data storytelling skills through clear, engaging, and insightful visualizations. I have plans of making this a full-blown analytics tool that you can use to create custom maps.
 - [weathersasa](https://github.com/asabahebwa/weathersasa): This application provides accurate and real-time weather information for users based on their location or selected cities. It offers an intuitive and user-friendly interface that ensures accessibility and ease of use for a wide audience.
 - [swipe2pay dashboards](https://github.com/asabahebwa/swipe2pay): swipe2pay takes the friction out of payments, so you can focus on what you do best, " Making sales". It allows SMEs to accept mobile payments and grow their businesses.
