@@ -25,7 +25,7 @@ With over 5 years of hands-on experience, I specialize in building robust, respo
 ---
 
 🚀 Personal Projects
-- [Account Microservice](https://github.com/asabahebwa/accoutn-microservice): A robust, production-ready microservice for managing account operations built with Node.js and Express.
+- [Account Microservice](https://github.com/asabahebwa/account-microservice): A robust, production-ready microservice for managing account operations built with Node.js and Express.
 - [weathersasa](https://github.com/asabahebwa/weathersasa): This application provides accurate and real-time weather information for users based on their location or selected cities. It offers an intuitive and user-friendly interface that ensures accessibility and ease of use for a wide audience.
 - [PixelMap Studio](https://github.com/asabahebwa/pixelmapstudio): The data visualization portfolio is designed to showcase data storytelling skills through clear, engaging, and insightful visualizations. I'm making this a full-blown analytics tool that you can use to create custom maps.
 - [Hotline](https://github.com/asabahebwa/hotline): Sometimes, even if you think your relationship is healthy, it can hide signs of abuse from one of the partners. This app will help you identify signs of abuse and offer resources on what you can do next.
