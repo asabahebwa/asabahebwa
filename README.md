@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Livingstone Asabahebwa — a Full Stack Software Engineer 🚀
 With over 5 years of hands-on experience, I specialize in building robust, responsive, and scalable web applications. I’ve worn multiple hats, including founding engineer, mentor, problem solver, and open-source contributor. I’m passionate about delivering real value through code.
 
-💼 Currently, I’m working at MedX International, a startup that builds reliable digital infrastructure for diagnostics, from lab automation to national surveillance
-
 ---
 
 🧠 My Tech Toolkit
