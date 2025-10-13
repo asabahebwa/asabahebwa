@@ -23,6 +23,7 @@ With over 5 years of hands-on experience, I specialize in building robust, respo
 ---
 
 🚀 Personal Projects
+- [Event Planner API](https://github.com/asabahebwa/event-planner-api): FastAPI-based REST API for managing events and users. Provides user signup/signin with JWT auth and CRUD for events backed by MongoDB via Beanie ODM
 - [Transaction Microservice](https://github.com/asabahebwa/transaction-microservice): A robust, scalable transaction management microservice built with NestJS, TypeScript, Prisma, PostgreSQL, Docker and Swagger. This service provides comprehensive transaction lifecycle management with real-time status tracking, validation, and API documentation.
 - [Account Microservice](https://github.com/asabahebwa/account-microservice): A robust, production-ready microservice for managing account operations built with Node.js, Express and MongoDB. Used Joi for data validation.
 - [Hotline](https://github.com/asabahebwa/hotline): Sometimes, even if you think your relationship is healthy, it can hide signs of abuse from one of the partners. This app will help you identify signs of abuse and offer resources on what you can do next.
